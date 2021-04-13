@@ -16,7 +16,7 @@ This containing Node JS Script to sync  PostgreSQL DB  with Firebase DB.
 
 6. Change  databaseURL: "https://xx.firebaseio.com" in index.js
 
-7. Chnage your PostgreSQL credentials to index.js.
+7. Chnage your PostgreSQL connection to index.js.
 
 ## Running the application
 
